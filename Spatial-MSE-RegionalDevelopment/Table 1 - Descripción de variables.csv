@@ -1,0 +1,21 @@
+Variable,Description
+year,"ano de analisis, 2021."
+adm1,Nivel de division administrativa 1. En el caso de Chile es region.
+adm3,Nivel de divisinon administrativa 3. En el caso de Chile es ciudad o municipalidad.
+adm1-adm3,Una abreviacion de la ciudad y la region a la que pertenece usada en algunos bloques de codigo.
+asdf_id,Codigo provisto por GeoQuery para individualizar ciudades.
+shapeID,Codigo para individualizar poligonos geograficos.
+qfirms,Numero de micro y pequenas (mipes) empresas registradas a nivel de ciudad.
+sales,Ventas anuales de mipes por ciudad expresadas en logaritmo natural.
+labour,Numero de personas empleadas por mipes por ciudad.
+sercotec,"Suma de los subsidios entregados por ciudad a traves de las gerencias de Desarrollo Empresarial y Desarrollo Asociativo, expresado en logaritmo natural."
+bdd,"Subsidios entregados por ciudad a traves de la gerencias de Desarrollo Empresarial, expresado en logaritmo natural."
+add,"Subsidios entregados por ciudad a traves de la gerencias de Desarrollo Asociativo, expresado en logaritmo natural."
+rank_qfirms,Ranking de ciudad de acuerdo a numero de micro y pequenas empresas registradas y con ventas.
+rank_sales,Ranking de ciudad de acuerdo a nivel de ventas de mipes.
+rank_labour,Ranking de ciudad de acuerdo a empleo entregado por mipes.
+rank_sercotec,Ranking de ciudad de acuerdo a subsidios totales entregados por Sercotec.
+rank_bdd,Ranking de ciudad de acuerdo subsidios entregados por la gerencia de Desarrollo Empresarial.
+rank_add,Ranking de ciudad de acuerdo subsidios entregados por la gerencia de Desarrollo Asociativo.
+COORD_X,Longitud.
+COORD_Y,Latitud.

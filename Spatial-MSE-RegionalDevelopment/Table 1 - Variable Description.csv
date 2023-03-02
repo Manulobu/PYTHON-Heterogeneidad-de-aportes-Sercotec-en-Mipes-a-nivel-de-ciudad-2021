@@ -1,0 +1,21 @@
+Variable,Description
+year,"year of analysis, 2021."
+adm1,"Geoadministrative boundarie level 1. In the case of Chile, the level is Region."
+adm3,"Geoadministrative boundarie level 3. In the case of Chile, the level is Comuna and it is equivalent to a city."
+adm1-adm3,An abbreviation of city and the respective region it belongs to.
+asdf_id,"Code to individualize cities, provided by GeoQuery."
+shapeID,Code to identify geoshapes defined in the dataset.
+qfirms,Number of registered firms with sales by city.
+sales,Annual sales of micro and small companies by city.
+labour,Total number of people employed by micro and small enterprises by city.
+sercotec,Total ammount of subsidies granted by the Technical Cooperation Service (Sercotec) expressed in Ln. The ammount is equal to the sum of the subsidies provided by the Business Development Division and the Associative Development Division.
+bdd,Ammount of subsidies by city granted by Sercotec's Business Development Division (BDD) expressed in Ln.
+add,"Ammount of subsidies by city granted by Sercotec's Associative Development Division (ADD), expressed in Ln."
+rank_qfirms,Ranking of number of firms by city.
+rank_sales,Ranking of sales by city.
+rank_labour,Rank of employment provided by sales of micro and small companies by city.
+rank_sercotec,Ranking of Sercotec subsidies by city.
+rank_bdd,Ranking of BDD subsidies by city.
+rank_add,Ranking of ADD subsidies by city.
+COORD_X,Longitude.
+COORD_Y,Latitude.
